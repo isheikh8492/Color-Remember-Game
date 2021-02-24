@@ -1,4 +1,6 @@
-INTRODUCTION
+# Color-Remember-Game
+************************************************************
+### INTRODUCTION
 ************************************************************
 
 This is a small web application game I made when I was
@@ -9,14 +11,14 @@ The objective of the game is simple. Try to remember the
 length of the pattern shown as long as possible.
 
 **********************************************************
-HOW TO ACCESS THE APPLICATION
+### HOW TO ACCESS THE APPLICATION
 **********************************************************
 
-Follow the ## URL: 
+##### URL: 
 http://isheikh-colorgame.tk/
 
 ************************************************************
-HOW TO PLAY
+### HOW TO PLAY
 ************************************************************
 
 - Press any key at the start.

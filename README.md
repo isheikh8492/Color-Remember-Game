@@ -10,6 +10,13 @@ first few ideas that I had in mind.
 The objective of the game is simple. Try to remember the
 length of the pattern shown as long as possible.
 
+**********************************************************
+HOW TO ACCESS THE APPLICATION
+**********************************************************
+
+Follow the #URL: 
+http://isheikh-colorgame.tk/
+
 ************************************************************
 HOW TO PLAY
 ************************************************************

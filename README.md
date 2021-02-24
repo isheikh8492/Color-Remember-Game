@@ -14,7 +14,7 @@ length of the pattern shown as long as possible.
 HOW TO ACCESS THE APPLICATION
 **********************************************************
 
-Follow the #URL: 
+Follow the # URL: 
 http://isheikh-colorgame.tk/
 
 ************************************************************

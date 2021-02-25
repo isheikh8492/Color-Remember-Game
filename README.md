@@ -18,6 +18,14 @@ length of the pattern shown as long as possible.
 http://isheikh-colorgame.tk/
 
 ************************************************************
+#### NOTE/LIMITATIONS (BEFORE PLAYING)
+************************************************************
+
+- This game is only compatible with Desktop versions of web
+browsers. It cannot be accessed on mobile devices.
+- I am working on it to make it playable on mobile devices.
+
+************************************************************
 #### HOW TO PLAY
 ************************************************************
 
@@ -33,8 +41,6 @@ you will advance to level 3.
 to remember more colors in the order they were animating.
 - Once you press the color button that does not match the
 order, the game is over.
-
-************************************************************
 
 ************************************************************
 Created by: Imaduddin Sheikh

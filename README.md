@@ -15,7 +15,7 @@ length of the pattern shown as long as possible.
 **********************************************************
 
 ##### URL: 
-http://www.colorgame.isheikhportfolio.com/
+http://colorgame.isheikhportfolio.com/
 
 ************************************************************
 #### NOTE/LIMITATIONS (BEFORE PLAYING)

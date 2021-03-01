@@ -23,7 +23,9 @@ http://colorgame.isheikhportfolio.com/
 
 - This game is only compatible with Desktop versions of web
 browsers. It cannot be accessed on mobile devices.
-- I am working on it to make it playable on mobile devices.
+- I am working on its accessibility to mobile devices.
+- If the URL gets redirected to a ".../defaultsite" page,
+clear cache of your web browser, and try again.
 
 ************************************************************
 #### HOW TO PLAY
